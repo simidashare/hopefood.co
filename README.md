@@ -1,2 +1,0 @@
-# hopefood.co
-Hopefood Delivery
